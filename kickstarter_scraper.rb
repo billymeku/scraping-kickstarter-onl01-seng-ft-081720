@@ -20,4 +20,4 @@ html = File.read('fixtures/kickstarter.html')
   # binding.pry
 end
  
-create_project_hash
+projects
